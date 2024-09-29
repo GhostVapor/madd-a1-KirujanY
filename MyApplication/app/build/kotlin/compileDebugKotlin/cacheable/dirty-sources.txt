@@ -1,0 +1,9 @@
+F:\MAD_Project\app\src\main\java\com\example\usedmart\activity\IntroActivity.kt
+F:\MAD_Project\app\src\main\java\com\example\usedmart\Model\SliderModel.kt
+F:\MAD_Project\app\src\main\java\com\example\usedmart\ui\theme\Color.kt
+F:\MAD_Project\app\src\main\java\com\example\usedmart\ui\theme\Type.kt
+F:\MAD_Project\app\src\main\java\com\example\usedmart\activity\BaseActivity.kt
+F:\MAD_Project\app\src\main\java\com\example\usedmart\ui\theme\Theme.kt
+F:\MAD_Project\app\src\main\java\com\example\usedmart\ViewModel\MainViewModel.kt
+F:\MAD_Project\app\src\main\java\com\example\usedmart\activity\MainActivity.kt
+F:\MAD_Project\app\src\main\java\com\example\usedmart\SliderAdapter.kt

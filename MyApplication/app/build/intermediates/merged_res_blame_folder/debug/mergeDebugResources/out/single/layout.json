@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-mergeDebugResources-65:\\layout\\viewholder_brand.xml",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-68:\\layout\\viewholder_brand.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-mergeDebugResources-65:\\layout\\activity_base.xml",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-68:\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-mergeDebugResources-65:\\layout\\slider_item_container.xml",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-68:\\layout\\slider_item_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-mergeDebugResources-65:\\layout\\viewholder_recommendation.xml",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-68:\\layout\\viewholder_recommendation.xml"
+    },
+    {
+        "merged": "com.example.usedmart.app-mergeDebugResources-65:/layout/activity_main.xml",
+        "source": "com.example.usedmart.app-main-68:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-mergeDebugResources-65:\\layout\\viewholder_recommended.xml",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-68:\\layout\\viewholder_recommended.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-mergeDebugResources-65:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-68:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-mergeDebugResources-65:\\layout\\activity_intro.xml",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-68:\\layout\\activity_intro.xml"
+    }
+]
