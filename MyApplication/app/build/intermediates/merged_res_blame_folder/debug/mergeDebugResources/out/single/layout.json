@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-mergeDebugResources-69:\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-mergeDebugResources-69:\\layout\\viewholder_brand.xml",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\viewholder_brand.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-mergeDebugResources-69:\\layout\\activity_base.xml",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-mergeDebugResources-69:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-mergeDebugResources-69:\\layout\\slider_item_container.xml",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\slider_item_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-mergeDebugResources-69:\\layout\\viewholder_size.xml",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\viewholder_size.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-mergeDebugResources-69:\\layout\\viewholder_color.xml",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\viewholder_color.xml"
+    },
+    {
+        "merged": "com.example.usedmart.app-mergeDebugResources-69:/layout/activity_login.xml",
+        "source": "com.example.usedmart.app-main-72:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-mergeDebugResources-69:\\layout\\activity_intro.xml",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-mergeDebugResources-69:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-mergeDebugResources-69:\\layout\\viewholder_cart.xml",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\viewholder_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-mergeDebugResources-69:\\layout\\viewholder_recommended.xml",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\viewholder_recommended.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-mergeDebugResources-69:\\layout\\activity_cart.xml",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-mergeDebugResources-69:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\activity_main.xml"
+    }
+]

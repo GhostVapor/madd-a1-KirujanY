@@ -1,0 +1,530 @@
+[
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-ldpi_fav_icon.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-ldpi\\fav_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-hdpi_login_img.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-hdpi\\login_img.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxxhdpi_ellipse2.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxxhdpi\\ellipse2.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-ldpi_btn_2.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-ldpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\layout_slider_item_container.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\slider_item_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxhdpi_bell_icon.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxhdpi\\bell_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-hdpi_btn_2.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-hdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xhdpi_back.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-ldpi_star.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-ldpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xhdpi_google.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-mdpi_ellipse2.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-mdpi\\ellipse2.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxxhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxxhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xhdpi_facebook.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-ldpi_btn_1.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-ldpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxhdpi_star.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxhdpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-hdpi_btn_1.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-hdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-mdpi_btn_1.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-mdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xhdpi_search_icon.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxhdpi_ellipse1.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxhdpi\\ellipse1.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxhdpi_shoes.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxhdpi\\shoes.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-hdpi_ellipse1.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-hdpi\\ellipse1.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\layout_viewholder_cart.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\viewholder_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxxhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxxhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xhdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-mdpi_intro_img.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-mdpi\\intro_img.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxhdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-hdpi_back.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-hdpi_btn_4.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-hdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-hdpi_bell_icon.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-hdpi\\bell_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable_social_btn_bg.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable\\social_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-ldpi_search_icon.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-ldpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-mdpi_btn_2.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-mdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable_bottom_nav.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable\\bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-hdpi_fav_icon.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-hdpi\\fav_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-mdpi_facebook.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-mdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxhdpi_ellipse2.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxhdpi\\ellipse2.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable_bottom_nav_top_corner.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable\\bottom_nav_top_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxxhdpi_ellipse1.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxxhdpi\\ellipse1.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\layout_viewholder_brand.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\viewholder_brand.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-ldpi_btn_4.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-ldpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxxhdpi_intro_img.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxxhdpi\\intro_img.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-hdpi_search_icon.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-hdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxxhdpi_fav_icon.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxxhdpi\\fav_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-hdpi_star.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-hdpi\\star.png"
+    },
+    {
+        "merged": "com.example.usedmart.app-debug-70:/layout_activity_login.xml.flat",
+        "source": "com.example.usedmart.app-main-72:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxxhdpi_login_img.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxxhdpi\\login_img.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\layout_activity_base.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-hdpi_google.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-hdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xhdpi_bell_icon.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xhdpi\\bell_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-mdpi_login_img.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-mdpi\\login_img.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-mdpi_ellipse1.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-mdpi\\ellipse1.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-mdpi_fav_icon.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-mdpi\\fav_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\layout_viewholder_size.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\viewholder_size.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable_form_bg.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable\\form_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-mdpi_back.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable_grey_bg_selected.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable\\grey_bg_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxhdpi_google.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-mdpi_star.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-mdpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\layout_viewholder_recommended.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\viewholder_recommended.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\layout_activity_intro.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxhdpi_back.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-hdpi_facebook.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-hdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xhdpi_btn_2.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xhdpi\\btn_2.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxhdpi_facebook.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxxhdpi_btn_5.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxxhdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-mdpi_search_icon.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-mdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\layout_viewholder_color.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\viewholder_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxhdpi_intro_img.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxhdpi\\intro_img.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xhdpi_star.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xhdpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxxhdpi_shoes.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxxhdpi\\shoes.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xhdpi_ellipse1.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xhdpi\\ellipse1.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-mdpi_btn_4.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-mdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-mdpi_shoes.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-mdpi\\shoes.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxxhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxxhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-mdpi_bell_icon.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-mdpi\\bell_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-ldpi_btn_5.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-ldpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-ldpi_red_shoe.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-ldpi\\red_shoe.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxxhdpi_search_icon.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-mdpi_btn_5.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-mdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xhdpi_ellipse2.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xhdpi\\ellipse2.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xhdpi_fav_icon.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xhdpi\\fav_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-hdpi_btn_5.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-hdpi\\btn_5.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxhdpi_search_icon.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxxhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxxhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxhdpi_fav_icon.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxhdpi\\fav_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable_grey_bg.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable\\grey_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-hdpi_shoes.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-hdpi\\shoes.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-ldpi_bell_icon.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-ldpi\\bell_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-hdpi_ellipse2.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-hdpi\\ellipse2.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxhdpi_login_img.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxhdpi\\login_img.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-hdpi_intro_img.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-hdpi\\intro_img.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xhdpi_login_img.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xhdpi\\login_img.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxxhdpi_bell_icon.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxxhdpi\\bell_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxhdpi_btn_4.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxhdpi\\btn_4.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-hdpi_btn_3.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-hdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-ldpi_back.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-ldpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-mdpi_google.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-mdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable_white_bg.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable\\white_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xhdpi_intro_img.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xhdpi\\intro_img.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xhdpi_btn_3.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xhdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxxhdpi_google.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxxhdpi_star.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxxhdpi\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxhdpi_btn_1.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxhdpi\\btn_1.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-mdpi_btn_3.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-mdpi\\btn_3.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-xxxhdpi_back.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-xxxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-debug-70:\\drawable-ldpi_btn_3.png.flat",
+        "source": "C:\\Users\\kirujan\\.gradle\\daemon\\8.7\\com.example.usedmart.app-main-72:\\drawable-ldpi\\btn_3.png"
+    }
+]

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="dotGrey">#D9D9D9</color>
+    <color name="light_Grey">#F0F0F0</color>
+    <color name="orange">#F17635</color>
+    <color name="textGrey">#80818B</color>
+    <color name="text_Black">#0E0F10</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Signup">Don\'t have an account? <font color="#F17635">Sign Up</font></string>
+    <string name="already">Already have an account? <font color="#F17635">Sign In</font></string>
+    <string name="app_name">UsedMart</string>
+    <string name="don_t_have_an_account">Don’t have an account? <font color="#F17635">Sign Up</font></string>
+    <string name="find_new_homes_for">Find New Homes for</string>
+    <string name="gcm_defaultSenderId" translatable="false">1011753324000</string>
+    <string name="get_started">Get Started</string>
+    <string name="google_api_key" translatable="false">AIzaSyCKQAyZyH2MtDZdOrAxcgAJjWNlyvhaHAk</string>
+    <string name="google_app_id" translatable="false">1:1011753324000:android:47a97d0bcd73695e056f85</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCKQAyZyH2MtDZdOrAxcgAJjWNlyvhaHAk</string>
+    <string name="google_storage_bucket" translatable="false">usedmart-7d517.appspot.com</string>
+    <string name="introDesc">Welcome to the ultimate student marketplace! \n Find new homes for your unused items and
+        \n explore great deals from fellow students.
+    </string>
+    <string name="intro_image">Intro image</string>
+    <string name="passRecover">Don\'t remember password? <font color="#F17635">Recover It</font></string>
+    <string name="policy">By signing up, you agree to the <b><font color="#0E0F10">Terms of Service</font></b> and
+        <b><font color="#0E0F10">Data Processing Agreement</font></b>
+    </string>
+    <string name="project_id" translatable="false">usedmart-7d517</string>
+    <string name="your_old_gear">Your Old Gear</string>
+    <style name="Base.Theme.UsedMart" parent="Theme.Material3.DayNight.NoActionBar">
+
+
+    </style>
+    <style name="LoginTextInputInnerFieldStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/textGrey</item>
+        <item name="android:textColorHint">@color/textGrey</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="Theme.UsedMart" parent="Base.Theme.UsedMart">
+        <item name="android:windowTranslucentNavigation">false</item>
+
+    </style>
+</resources>
